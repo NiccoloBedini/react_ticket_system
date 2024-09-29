@@ -1,6 +1,5 @@
-## Exam #1: "Ticketing system"
+*This project is a multi-server ticket management system built with React. The application allows users to create, view, and manage tickets across different servers, simulating a distributed ticketing environment. It supports multiple functionalities such as ticket assignment, status tracking, and priority management. The system is designed to be scalable and efficient, making use of React's component-based architecture for dynamic and responsive UI updates. The backend is distributed across multiple servers to simulate real-world, large-scale ticketing operations.*
 
-### Student: s327443 Bedini Niccolò
 
 ## React Client Application Routes
 
